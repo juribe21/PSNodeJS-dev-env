@@ -24,8 +24,7 @@ public string firstName { get; set; }
             Console.WriteLine("Full Name:{0}", firstName + " " + lastName);
             Console.WriteLine("Discount:{0}", discount);
             Console.WriteLine("Resultof sum:" + B + "\n");
-        }  
-
+        } 
 
         public static int sum()
         {
