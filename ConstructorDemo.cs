@@ -1,6 +1,7 @@
 public string firstName { get; set; }
         public string lastName { get; set; }
         public static string discount { get; set; }
+        public int Count{ get; set; }
         public static int A { get; set; }
         public static int B { get; set; }
 
