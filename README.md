@@ -11,3 +11,12 @@ Este es un cambio desde Github repository
 
 Este es un cambio desde Github repository for VSCode
 Este es un cambio desde Github repositoryNEW
+
+
+********************************
+Este es un cambio desde VS Code
+
+Este es un cambio desde Github repository
+
+Este es un cambio desde Github repository for VSCode
+Este es un cambio desde Github repositoryNEW
