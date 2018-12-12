@@ -8,3 +8,5 @@ Setting up an API using the AWS CLI requires working with the create-rest-api, c
 Este es un cambio desde VS Code
 
 Este es un cambio desde Github repository
+
+Este es un cambio desde Github repository for VSCode
