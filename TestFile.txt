@@ -1,0 +1,12 @@
+Getting Started with Amazon API
+Gateway
+With Amazon API Gateway, you can provide your clients with a consistent and scalable programming
+interface to access three types of endpoints in the backend: invoking AWS Lambda functions, calling
+other AWS services, and accessing an HTTP website or webpage. To do this, you create an API Gateway
+API to integrate each API method with a backend endpoint. Each backend endpoint is associated with an
+integration type. For details about the API integration types in API Gateway, see Choose an API Gateway
+API Integration Type (p. 126).
+To get started using Amazon API Gateway, we present the following hands-on walkthroughs for creating,
+deploying, and testing simple APIs integrated with some commonly used backends. The example APIs
+used in the walkthroughs demonstrate what is involved to implement each of the supported integration
+types.
