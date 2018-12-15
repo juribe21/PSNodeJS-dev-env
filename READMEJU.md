@@ -9,6 +9,7 @@ Este es un cambio desde VS Code
 
 Este es un cambio desde Github repository
 
+clear
 Este es un cambio desde Github repository for VSCode
 Este es un cambio desde Github repositoryNEW
 
